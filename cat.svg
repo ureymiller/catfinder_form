@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:vectornator="http://vectornator.io" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" version="1.1" height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" xml:space="preserve">
+<metadata>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting value="true" key="WDGuidesVisible"/>
+<vectornator:setting value="true" key="WDRulersVisible"/>
+<vectornator:setting value="true" key="VNDimensionsVisible"/>
+<vectornator:setting value="false" key="WDDisplayWhiteBackground"/>
+<vectornator:setting value="false" key="WDSnapToEdges"/>
+<vectornator:setting key="VNPencilOnly" value="false"/>
+<vectornator:setting value="false" key="WDOutlineMode"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting value="false" key="WDDynamicGuides"/>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting value="true" key="WDSnapToGrid"/>
+<vectornator:setting value="false" key="WDIsolateActiveLayer"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting value="false" key="UndoHistoryDisabled"/>
+<vectornator:setting value="Pixels" key="WDUnits"/>
+</metadata>
+<defs/>
+<g vectornator:layerName="Ebene 1" id="Ebene 1">
+<path d="M512.271+928.928C273.496+928.928+79.8185+754.65+79.8185+539.721C79.8185+320.653+115.156+177.511+142.339+104.673C151.791+79.344+182.989+70.8185+204.488+87.2517C264.538+133.153+323.467+265.288+357.692+278.076C403.718+263.064+420.734+236.41+513.944+237.315C613.905+238.286+612.523+245.595+658.549+260.607C692.774+247.757+760.005+133.092+820.054+87.2517C841.553+70.8185+872.751+79.344+882.204+104.673C909.386+177.511+944.724+320.653+944.724+539.721C944.724+754.65+751.047+928.928+512.271+928.928Z" stroke-linecap="round" opacity="1" stroke="#000000" stroke-width="25" stroke-linejoin="round" fill="none"/>
+</g>
+</svg>
