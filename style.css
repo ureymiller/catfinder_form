@@ -117,7 +117,7 @@ select {
     align-items: center;
     justify-content: center;
     margin-bottom: 4vh;
-    margin-left: 4vh;
+    margin-left: max(4vh, 50px);
 }
 #dropdown {
     margin-bottom: 4vh;
@@ -127,6 +127,7 @@ input[type="radio"] {
 }
 input[type="checkbox"] {
     width: 5%;
+    min-width: 15px;
 }
 #gender-group label,
 #extra-group label {
@@ -157,4 +158,38 @@ textarea {
     padding: 10px;
     margin: 40px auto;
     border-radius: 8px;
+}
+
+@media screen and (orientation: portrait), screen and (max-width: 750px) {
+    #title {
+        font-size: 8vw;
+    }
+    #description {
+        font-size: 3vw;
+    }
+    label {
+        font-size: 4vw;
+    }
+    #gender-group label,
+    #extra-group label {
+    font-size: 3.5vw;
+    }
+    input, select, textarea{
+        font-size: 3vw;
+        padding: 0.1vh;
+    }
+    #personalpic {
+        height: 6vh;
+        width: 6vh;
+        transform: translateY(-6vh);
+    }
+    .personalinfo, .catinfo {
+        margin: 5vh 3vh;
+    }
+    .personalinfo {
+        margin-top: 10vh;
+    }
+    .catinfo {
+        margin-bottom: 3vh;
+    }
 }
