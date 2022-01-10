@@ -159,12 +159,12 @@ input[type="checkbox"] {
 
 @media screen and (orientation: portrait), screen and (max-width: 750px) {
     
-    label {
+    label, #submit {
         font-size: 4vw;
     }
     input, select, textarea{
         font-size: 3vw;
-        padding: 0.1vw;
+        padding: 0.5vw;
     }
     
     .personalinfo, .catinfo {
@@ -178,12 +178,12 @@ input[type="checkbox"] {
         font-size: 8vw;
     }
     #description {
-        font-size: 3vw;
+        font-size: 4vw;
         margin: 2vw;
     }
     #gender-group label,
     #extra-group label {
-    font-size: 3.5vw;
+        font-size: 3.5vw;
     }
     #personalpic {
         height: 10vw;
